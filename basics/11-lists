@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l /home/vagrant/holbertonschool-shell /home/vagrant/ /boot
