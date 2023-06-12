@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r ugo+dX permissions/
+chmod ugo+X /home/vagrant/holbertonschool-shell/permissions
