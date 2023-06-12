@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 /home/vagrant/holbertonschool-shell/permissions/
+chmod ugo+xX -R /home/vagrant/holbertonschool-shell/permissions/
