@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x permissions
+chmod ugo+x (find /holbertonschool-shell/permissions -type d)
