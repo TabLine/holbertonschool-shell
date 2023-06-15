@@ -3,3 +3,4 @@ File 1-hello_you prints 'hello' and current user.
 File 2-path adds /action directory to PATH.
 File 3-counts directories in $PATH.
 File 4-Lists global and environment variables.
+File 5-Lists all local and environment variables with functions.
