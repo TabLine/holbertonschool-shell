@@ -4,3 +4,4 @@ File 2-path adds /action directory to PATH.
 File 3-counts directories in $PATH.
 File 4-Lists global and environment variables.
 File 5-Lists all local and environment variables with functions.
+File 6-Creates new local variable with School value and BEST name.
