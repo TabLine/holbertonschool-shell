@@ -8,3 +8,4 @@ File 6-Creates new local variable with School value and BEST name.
 File 7-Creates new global variable with previous attributes.
 File 8-Arithmetic expression with TRUEKNOWLEDGE plus 128 that prints the result.
 File 9-Arithmetic expression dividing POWER by DIVIDE.
+File 10-Arithmetic expression with BREATH to the power of LOVE echoed.
