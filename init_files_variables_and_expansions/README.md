@@ -6,3 +6,4 @@ File 4-Lists global and environment variables.
 File 5-Lists all local and environment variables with functions.
 File 6-Creates new local variable with School value and BEST name.
 File 7-Creates new global variable with previous attributes.
+File 8-Arithmetic expression with TRUEKNOWLEDGE plus 128 that prints the result.
